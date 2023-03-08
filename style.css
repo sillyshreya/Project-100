@@ -1,0 +1,40 @@
+img{
+    height:400px;
+    width:600px;
+    box-shadow:5px 5px 5px palevioletred;
+    margin-left:20px;
+    margin-top:20px;
+    border:10px dotted blueviolet;
+}
+img:hover{
+    border-radius:70px;
+}
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: burlywood;
+    font-size:20px;
+    line-height:2;
+}
+.body_back{
+    background-color:aquamarine;
+    
+}
+h1 {
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+    font-size:50px;
+    color:cornflowerblue;
+    text-shadow: 2px 2px orchid;
+   font-variant:small-caps;
+}
+h4 {
+    color:violet;
+}
+#camera{
+    width:500px;
+    height:100px;
+}
